@@ -1,3 +1,0 @@
-class CatalogController < ApplicationController
-
-end
